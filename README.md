@@ -6,3 +6,5 @@ Obviously, this uses finite differences and for solving the equipotential surfac
 
 It's a really simple and easy-to-use script. I am not uploading the whole work because it's part of some project I am currently doing, but I find the algorithm for solving Laplace's equation interesting. 
 The same script could be used to solve for isothermal surfaces in a volume according to Fourier's heat conduction law.
+
+![Potential_Lines](/Potential_lines.png?raw=true "Potential_Lines")
